@@ -1,4 +1,5 @@
-👋 Hi, I’m @jweill-aws. I'm a Senior Front End Developer at Amazon Web Services (AWS) working primarily on [Project Jupyter](https://jupyter.org).
+👋 Hi, I’m Jason Weill (pronounced "while"). I'm a Senior Front End Developer at Amazon Web Services (AWS) working primarily on [Project Jupyter](https://jupyter.org).
+
 My contributions on this site do not represent the official positions of Amazon or AWS. Any opinions I express are strictly my own.
 
 <!---
